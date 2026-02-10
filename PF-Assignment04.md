@@ -134,7 +134,7 @@ ORDER BY SAL DESC;
 14 rows in set (0.001 sec)
 </pre>
 
-### 7. Display name, sal, hra, da, pf, totalsal for each employee. The output should be in the order of totalsal, hra - 15% of sal, da - 10% of sal, pf - 5% of sal. Total salary will be (sal*hra*da) - pf.
+### 7. Display name, sal, hra, da, pf, totalsal for each employee. The output should be in the order of totalsal, hra - 15% of sal, da - 10% of sal, pf - 5% of sal. Total salary will be (sal* hra *da) - pf.
 
 ```sql
 SELECT
